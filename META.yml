@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bio-Phylo-Beagle
-version:            0.02
+version:            0.03
 abstract:           wrapper around Beagle-lib
 author:
     - Rutger Vos <rutgeraldo@gmail.com>

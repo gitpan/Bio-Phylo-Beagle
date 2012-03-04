@@ -1,5 +1,5 @@
-beagle.i
-build.sh
+beagle_wrap.c
+beagle.pm
 lib/Bio/Phylo/Beagle.pm
 lib/Bio/Phylo/BeagleOperation.pm
 lib/Bio/Phylo/BeagleOperationArray.pm
